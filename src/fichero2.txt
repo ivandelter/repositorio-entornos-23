@@ -1,1 +1,2 @@
 Este fichero ha sido creado desde Rama1
+Otra línea, pero desde rama 2
